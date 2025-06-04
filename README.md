@@ -1,6 +1,4 @@
 # Transformer_Time_Series
-DISLCLAIMER: THIS IS NOT THE PAPERS CODE. THIS DOES NOT HAVE SPARSITY. THIS IS TEACHER FORCED LEARNING. Only tried to replicate the simple example without sparsity.
-[Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://arxiv.org/pdf/1907.00235.pdf) (NeurIPS 2019)
 
 Able to match the results of the paper for the synthetic dataset as shown in the table below
 ![Rp](https://github.com/mlpotter/Transformer_Time_Series/blob/master/images/Rp_table.JPG)
